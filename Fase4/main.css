@@ -28,8 +28,8 @@ body {
   .clearfix {
       clear: both;
   }  
-  .contenedor > .row .col-2,
-  .contenedor > .row .col-8,  
+  .contenedor > .row .col-3,
+  .contenedor > .row .col-7,  
   .navbar,
   .footer{  
       background: fff;
