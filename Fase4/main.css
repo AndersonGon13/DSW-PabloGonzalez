@@ -17,8 +17,8 @@ body {
     font-size: 2em;
     text-transform: uppercase;
   }
-  .contenedor > .row .col-2,
-  .contenedor > .row .col-8{   
+  .contenedor > .row .col-3,
+  .contenedor > .row .col-7{   
       background-color: #fff;          
       margin: 1.6em auto;
       display: grid;
@@ -28,8 +28,8 @@ body {
   .clearfix {
       clear: both;
   }  
-  .contenedor > .row .col-2,
-  .contenedor > .row .col-8,  
+  .contenedor > .row .col-3,
+  .contenedor > .row .col-7,  
   .navbar,
   .footer{  
       background: fff;
@@ -45,7 +45,7 @@ body {
       margin-top: 20px;
       margin-bottom: 20px;                 
   }
-  .contenedor .row .col-2{      
+  .contenedor .row .col-3{      
       background-color: rgb(65, 63, 63);
       padding: 20px;
       margin-top: 5px;
@@ -55,14 +55,14 @@ body {
       align-items: center;
       flex-direction: column;
   }
-  .contenedor > .row .col-8{  
+  .contenedor > .row .col-7{  
       background: rgb(65, 63, 63) ;
       padding: 20px;
       margin-top: 5px;
       color: #fff;
   }
-  .col-8 .article h1,
-  .col-8 .article p{
+  .col-7 .article h1,
+  .col-7 .article p{
       padding: 10px;
   } 
 
